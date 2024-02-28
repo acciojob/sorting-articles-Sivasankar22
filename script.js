@@ -24,7 +24,7 @@ function sortArticles(articles) {
 }
 
 // Get the ul element by id
-const ul = document.getElementById('band');
+const ul = document.getElementById('bands');
 
 // Sort the articles
 const sortedBands = sortArticles(bands);
